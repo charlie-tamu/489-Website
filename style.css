@@ -1,3 +1,26 @@
-form: {
-	
+body {
+	background-color: #e5e5e5;
+}
+
+form {
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	background-color: #82b1ff;
+	padding: 5%;
+}
+
+h1 {
+	margin: 0;
+	margin-bottom: 0.5em;
+	font-family: sans-serif;
+	color: #000;
+}
+
+label{
+	font-family: sans-serif;
+}
+
+input{
+	margin-bottom: 0.5em;
 }
