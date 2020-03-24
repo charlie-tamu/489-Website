@@ -35,3 +35,10 @@ button{
 	margin-bottom: 0.5em;
 	font-size: large;
 }
+
+p{
+	display: block;
+	margin-bottom: 0.5em;
+	font-family: sans-serif;
+	font-size: large;
+}
